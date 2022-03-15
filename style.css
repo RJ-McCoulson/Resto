@@ -196,7 +196,7 @@ header nav ul li {
   .specialty-item:last-child .specialty-img {
     order: 1;
   }
-  .specialty-item:last-child .specialty-img {
+  .specialty-item:last-child .specialty-info {
     order: 2;
   }
 }
